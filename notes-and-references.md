@@ -3,6 +3,9 @@
  - Add content for the empty chapters
  - talk about the outer bounds of the solar system
  - conclude (with a picture from Hubble: https://www.spacetelescope.org/images/heic0406a/)
+ - p.27: Missing page with stats + missing conclusion ! Also, there should be a display of Fc and Fg on the simulation.
+
+    It is highly recommended to do all calculations for the Earth - Sun system by hand. The vital stats for Earth is provided on the next page or you could google it online.
 
 # Number of words
     
@@ -13,7 +16,7 @@
 
  - [x] Introduction  - p.11
  - [x] Terre  - p.18
- - [ ] Gravitation  - p.24
+ - [x] Gravitation  - p.24
  - [ ] Soleil  - p.28
  - [ ] Lune  - p.36
  - [ ] Mathématiques barycentriques !  - p.42
@@ -58,3 +61,9 @@ http://bowie.gsfc.nasa.gov/ggfc/tides/intro.html
 
 Rotation: https://fr.wikipedia.org/wiki/Rotation_de_la_Terre
 Révolution: https://fr.wikipedia.org/wiki/Orbite_de_la_Terre
+
+ 
+## Equilibre dynamique
+
+https://fr.wikipedia.org/wiki/Centre_d%27inertie
+https://fr.wikipedia.org/wiki/Force_centrip%C3%A8te
