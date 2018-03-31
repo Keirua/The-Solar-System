@@ -1,3 +1,14 @@
+# Content ideas
+
+ - Add content for the empty chapters
+ - talk about the outer bounds of the solar system
+ - conclude (with a picture from Hubble: https://www.spacetelescope.org/images/heic0406a/)
+
+# Number of words
+    
+    $ find manuscript -type f -name "*.html" | xargs wc -w
+-> roughly 9140
+
 # Terre
 
 https://fr.wikipedia.org/wiki/Types_de_plan%C3%A8tes
