@@ -1,4 +1,6 @@
-# Content ideas
+# Current missing content ideas
+
+Here are a few ideas regarding what seem to miss in the current book
 
  - Add content for the empty chapters
  - talk about the outer bounds of the solar system
@@ -6,6 +8,25 @@
  - p.27: Missing page with stats + missing conclusion ! Also, there should be a display of Fc and Fg on the simulation.
 
     It is highly recommended to do all calculations for the Earth - Sun system by hand. The vital stats for Earth is provided on the next page or you could google it online.
+
+# New content ideas
+
+ = Content that the current book is not talking about that I'd like to add
+
+Sun/stars: 
+ - the different categories of stars
+ - expand on mass, brightness, age
+ - explain what a star is (why are planets different ?)
+ - the life of a star
+
+-> photosphere, followed by chromosphere and then the corona. Expand!
+ - https://fr.wikipedia.org/wiki/Soleil#Structure_et_fonctionnement
+ - https://fr.wikipedia.org/wiki/Tachocline
+
+Experiment about the dimensions in the solar system: show the difference between elements like
+pluto vs earth vs jupiter vs sun
+
+Experiment about the phases of the moon.
 
 # Number of words
     
@@ -17,7 +38,7 @@
  - [x] Introduction  - p.11
  - [x] Terre  - p.18
  - [x] Gravitation  - p.24
- - [ ] Soleil  - p.28
+ - [x] Soleil  - p.28
  - [ ] Lune  - p.36
  - [ ] Mathématiques barycentriques !  - p.42
  - [ ] Évènements en syzygie - p.44
@@ -44,6 +65,7 @@
 
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe et bien sûr https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire
 
+
 ## Terre
 
 https://fr.wikipedia.org/wiki/Types_de_plan%C3%A8tes
@@ -67,3 +89,15 @@ Révolution: https://fr.wikipedia.org/wiki/Orbite_de_la_Terre
 
 https://fr.wikipedia.org/wiki/Centre_d%27inertie
 https://fr.wikipedia.org/wiki/Force_centrip%C3%A8te
+
+## Soleil
+
+https://fr.wikipedia.org/wiki/Naine_jaune
+nucleocosmochronologie
+photosynthèse
+https://fr.wikipedia.org/wiki/Centre_galactique
+https://fr.wikipedia.org/wiki/Voie_lact%C3%A9e
+https://fr.wikipedia.org/wiki/Ann%C3%A9e_galactique
+
+https://fr.wikipedia.org/wiki/Rotation_diff%C3%A9rentielle
+https://fr.wikipedia.org/wiki/Aurore_polaire
