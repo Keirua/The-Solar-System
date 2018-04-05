@@ -117,3 +117,13 @@ http://saturn.jpl.nasa.gov/files/Synchronous_Rotation.pdf
 https://fr.wikipedia.org/wiki/Th%C3%A9ia_(impacteur)
 https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_de_l%27impact_g%C3%A9ant
 https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_barycentriques_(astronomie)
+
+## Mercure
+
+https://fr.wikipedia.org/wiki/Mercure_(plan%C3%A8te)
+tidal locking = synchronisation par effet de marée
+https://fr.wikipedia.org/wiki/R%C3%A9sonance_orbitale
+https://fr.wikipedia.org/wiki/R%C3%A9sonance_spin-orbite
+
+<a href="http://www.prothermographer.com/training/IRBasics/ir_basics.htm#heat_transfer/conduction/thermal_capacitance.htm">Thermal capacitance</a> -> non inclus
+https://fr.wikipedia.org/wiki/MESSENGER
