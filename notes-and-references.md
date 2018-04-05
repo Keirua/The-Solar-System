@@ -9,6 +9,10 @@ Here are a few ideas regarding what seem to miss in the current book
 
     It is highly recommended to do all calculations for the Earth - Sun system by hand. The vital stats for Earth is provided on the next page or you could google it online.
 
+ - Double-check all speed conversion mph -> km/h
+ - find sources for those data
+ - find french replacement videos
+
 # New content ideas
 
  = Content that the current book is not talking about that I'd like to add
@@ -61,6 +65,7 @@ Experiment about the phases of the moon.
  - [ ] Hauméa - p.110
 
 
+
 # References
 
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe et bien sûr https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire
@@ -101,3 +106,14 @@ https://fr.wikipedia.org/wiki/Ann%C3%A9e_galactique
 
 https://fr.wikipedia.org/wiki/Rotation_diff%C3%A9rentielle
 https://fr.wikipedia.org/wiki/Aurore_polaire
+
+## Lune
+
+https://fr.wikipedia.org/wiki/Lune
+https://fr.wikipedia.org/wiki/New_Horizons
+https://fr.wikipedia.org/wiki/Assistance_gravitationnelle
+
+http://saturn.jpl.nasa.gov/files/Synchronous_Rotation.pdf
+https://fr.wikipedia.org/wiki/Th%C3%A9ia_(impacteur)
+https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_de_l%27impact_g%C3%A9ant
+https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_barycentriques_(astronomie)
