@@ -32,6 +32,10 @@ pluto vs earth vs jupiter vs sun
 
 Experiment about the phases of the moon.
 
+- retrograde orbit of Mars
+
+Geological structure of planets (inner core, mantel, etc.), same for stars
+
 # Number of words
     
     $ find manuscript -type f -name "*.html" | xargs wc -w
@@ -69,6 +73,9 @@ Experiment about the phases of the moon.
 # References
 
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe et bien sûr https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire
+
+
+https://fr.wikipedia.org/wiki/Orbite#Param%C3%A8tres_orbitaux
 
 
 ## Terre
@@ -127,3 +134,13 @@ https://fr.wikipedia.org/wiki/R%C3%A9sonance_spin-orbite
 
 <a href="http://www.prothermographer.com/training/IRBasics/ir_basics.htm#heat_transfer/conduction/thermal_capacitance.htm">Thermal capacitance</a> -> non inclus
 https://fr.wikipedia.org/wiki/MESSENGER
+
+## Vénus
+
+https://fr.wikipedia.org/wiki/V%C3%A9nus_%28plan%C3%A8te%29
+https://fr.wikipedia.org/wiki/Rétrogradation#Exemple_de_la_rétrogradation_de_Mars
+https://fr.wikipedia.org/wiki/Rétrogradation#Exemple_de_la_rétrogradation_de_Mars
+https://fr.wikipedia.org/wiki/Perturbation_(astronomie)
+
+https://fr.wikipedia.org/wiki/Terraformation_de_V%C3%A9nus
+https://fr.wikipedia.org/wiki/Terraformation
