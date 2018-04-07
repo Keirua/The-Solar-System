@@ -1,3 +1,10 @@
+# Minor fixes
+
+ - Style for the beginning of mars' chapter 
+ - système solaire or Système Solaire ? pick one
+ - fix the `-` vs `—`
+ - p61 diatmeter
+
 # Current missing content ideas
 
 Here are a few ideas regarding what seem to miss in the current book
@@ -9,9 +16,19 @@ Here are a few ideas regarding what seem to miss in the current book
 
     It is highly recommended to do all calculations for the Earth - Sun system by hand. The vital stats for Earth is provided on the next page or you could google it online.
 
+ - chapter on projectile motion is not over
+ - chapter on eclipses has not "interesting" content, most of it is known. Add a video of the shadow of the moon on earth, seen from the sky, during an eclipse ?
+
+ - add a picture for Phobos and Deimos
+
  - Double-check all speed conversion mph -> km/h
  - find sources for those data
- - find french replacement videos
+ - find replacement videos in french
+ - use &nbsp; before ":"
+
+Each chapter has more or less this structure:
+ - it provides details about an object, and focuses a bit on a specific aspect 
+ - this aspect is used to introduce a notion of astronomy
 
 # New content ideas
 
@@ -34,7 +51,8 @@ Experiment about the phases of the moon.
 
 - retrograde orbit of Mars
 
-Geological structure of planets (inner core, mantel, etc.), same for stars
+Geological structure of planets (inner core, mantel, etc: https://www.youtube.com/watch?v=muWrmfXpivY).
+More about atmospheres https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_(astronomie)
 
 # Number of words
     
@@ -47,13 +65,13 @@ Geological structure of planets (inner core, mantel, etc.), same for stars
  - [x] Terre  - p.18
  - [x] Gravitation  - p.24
  - [x] Soleil  - p.28
- - [ ] Lune  - p.36
- - [ ] Mathématiques barycentriques !  - p.42
- - [ ] Évènements en syzygie - p.44
- - [ ] Mercure - p.46
+ - [x] Lune  - p.36
+ - [x] Mathématiques barycentriques !  - p.42
+ - [x] Évènements en syzygie - p.44
+ - [x] Mercure - p.46
  - [ ] Mouvements de projectiles - p.50 
- - [ ] Vénus  - p.54
- - [ ] Mars  - p.58 
+ - [x] Vénus  - p.54
+ - [x] Mars  - p.58 
  - [ ] Terraformation - p.66 
  - [ ] Jupiter  - p.76
  - [ ] La lune Europe  - p.82
@@ -61,22 +79,18 @@ Geological structure of planets (inner core, mantel, etc.), same for stars
  - [ ] La lune Titan  - p.82
  - [ ] Unités de distances  - p.90 
  - [ ] Uranus  - p.92
- - [ ] Neptune  - p.98
- - [ ] Pluton  - p.102
- - [ ] Cérès - p.104
- - [ ] Éris - p.106
- - [ ] Makémaké - p.108
- - [ ] Hauméa - p.110
-
-
+ - [x] Neptune  - p.98
+ - [x] Pluton  - p.102
+ - [x] Cérès - p.104
+ - [x] Éris - p.106
+ - [x] Makémaké - p.108
+ - [x] Hauméa - p.110
 
 # References
 
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe et bien sûr https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire
 
-
 https://fr.wikipedia.org/wiki/Orbite#Param%C3%A8tres_orbitaux
-
 
 ## Terre
 
@@ -144,3 +158,28 @@ https://fr.wikipedia.org/wiki/Perturbation_(astronomie)
 
 https://fr.wikipedia.org/wiki/Terraformation_de_V%C3%A9nus
 https://fr.wikipedia.org/wiki/Terraformation
+
+https://fr.wikipedia.org/wiki/Magn%C3%A9tosph%C3%A8re
+
+## Mars
+
+https://fr.wikipedia.org/wiki/Mars_(plan%C3%A8te)
+
+https://fr.wikipedia.org/wiki/Satellites_naturels_de_Mars
+https://fr.wikipedia.org/wiki/D%C3%A9imos_(lune)
+https://fr.wikipedia.org/wiki/Phobos_(lune)
+
+https://fr.wikipedia.org/wiki/Excentricit%C3%A9_orbitale
+https://fr.wikipedia.org/wiki/Saison#M%C3%A9canismes_des_variations_climatiques_saisonni%C3%A8res
+
+https://fr.wikipedia.org/wiki/Olympus_Mons
+https://fr.wikipedia.org/wiki/Valles_Marineris
+
+
+# Nepture
+
+https://fr.wikipedia.org/wiki/Anneau_plan%C3%A9taire
+https://fr.wikipedia.org/wiki/Neptune_(plan%C3%A8te)
+
+https://fr.wikipedia.org/wiki/Voyager_2
+https://voyager.jpl.nasa.gov/
