@@ -110,10 +110,8 @@ https://fr.wikipedia.org/wiki/Lune
 https://fr.wikipedia.org/wiki/Mar%C3%A9e#Autres_effets_induits_:_ralentissement_de_la_vitesse_de_rotation_de_la_Terre,_et_%C3%A9loignement_de_la_Lune
 http://bowie.gsfc.nasa.gov/ggfc/tides/intro.html
 
-
 Rotation: https://fr.wikipedia.org/wiki/Rotation_de_la_Terre
 Révolution: https://fr.wikipedia.org/wiki/Orbite_de_la_Terre
-
  
 ## Equilibre dynamique
 
@@ -179,7 +177,6 @@ https://fr.wikipedia.org/wiki/Saison#M%C3%A9canismes_des_variations_climatiques_
 https://fr.wikipedia.org/wiki/Olympus_Mons
 https://fr.wikipedia.org/wiki/Valles_Marineris
 
-
 ## Terraformation
 
 https://fr.wikipedia.org/wiki/Colonisation_de_la_Lune
@@ -189,7 +186,6 @@ https://fr.wikipedia.org/wiki/Argument_de_l%27apocalypse
 https://fr.wikipedia.org/wiki/Kelvin
 https://fr.wikipedia.org/wiki/Z%C3%A9ro_absolu
 https://fr.wikipedia.org/wiki/Zone_habitable
-
 
 ## Jupiter
 
@@ -209,6 +205,17 @@ https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe
 https://fr.wikipedia.org/wiki/Grande_Tache_rouge
 https://fr.wikipedia.org/wiki/Galileo_(sonde_spatiale)
 https://fr.wikipedia.org/wiki/Ovale_BA
+
+## Europe
+
+https://fr.wikipedia.org/wiki/Europe_(lune)
+https://fr.wikipedia.org/wiki/Roche_siliceuse
+https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_d%27Europe
+https://fr.wikipedia.org/wiki/Radiolyse
+https://fr.wikipedia.org/wiki/Jupiter_Icy_Moon_Explorer
+http://sci.esa.int/juice/50068-science-objectives/
+https://fr.wikipedia.org/wiki/Europa_Clipper
+https://www.nasa.gov/press-release/nasa-s-europa-mission-begins-with-selection-of-science-instruments
 
 ## Nepture
 
