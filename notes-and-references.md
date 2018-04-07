@@ -182,6 +182,9 @@ https://fr.wikipedia.org/wiki/Colonisation_de_la_Lune
 https://fr.wikipedia.org/wiki/Colonisation_de_Mars
 https://fr.wikipedia.org/wiki/Argument_de_l%27apocalypse
 
+https://fr.wikipedia.org/wiki/Kelvin
+https://fr.wikipedia.org/wiki/Z%C3%A9ro_absolu
+
 ## Nepture
 
 https://fr.wikipedia.org/wiki/Anneau_plan%C3%A9taire
