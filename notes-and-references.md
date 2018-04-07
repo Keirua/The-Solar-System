@@ -184,6 +184,8 @@ https://fr.wikipedia.org/wiki/Argument_de_l%27apocalypse
 
 https://fr.wikipedia.org/wiki/Kelvin
 https://fr.wikipedia.org/wiki/Z%C3%A9ro_absolu
+https://fr.wikipedia.org/wiki/Zone_habitable
+
 
 ## Nepture
 
