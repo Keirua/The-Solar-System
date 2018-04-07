@@ -72,8 +72,8 @@ More about atmospheres https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_(astronomie
  - [ ] Mouvements de projectiles - p.50 
  - [x] Vénus  - p.54
  - [x] Mars  - p.58 
- - [ ] Terraformation - p.66 
- - [ ] Jupiter  - p.76
+ - [x] Terraformation - p.66 
+ - [x] Jupiter  - p.76
  - [ ] La lune Europe  - p.82
  - [ ] Saturne  - p.86
  - [ ] La lune Titan  - p.82
@@ -90,7 +90,11 @@ More about atmospheres https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_(astronomie
 
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe et bien sûr https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire
 
+https://fr.wikipedia.org/wiki/Formation_et_%C3%A9volution_du_Syst%C3%A8me_solaire
+
 https://fr.wikipedia.org/wiki/Orbite#Param%C3%A8tres_orbitaux
+
+https://www.planete-astronomie.eu/fr/systeme-solaire.html
 
 ## Terre
 
@@ -116,7 +120,7 @@ Révolution: https://fr.wikipedia.org/wiki/Orbite_de_la_Terre
 https://fr.wikipedia.org/wiki/Centre_d%27inertie
 https://fr.wikipedia.org/wiki/Force_centrip%C3%A8te
 
-## Soleil
+## Soleil
 
 https://fr.wikipedia.org/wiki/Naine_jaune
 nucleocosmochronologie
@@ -128,7 +132,7 @@ https://fr.wikipedia.org/wiki/Ann%C3%A9e_galactique
 https://fr.wikipedia.org/wiki/Rotation_diff%C3%A9rentielle
 https://fr.wikipedia.org/wiki/Aurore_polaire
 
-## Lune
+## Lune
 
 https://fr.wikipedia.org/wiki/Lune
 https://fr.wikipedia.org/wiki/New_Horizons
@@ -139,7 +143,7 @@ https://fr.wikipedia.org/wiki/Th%C3%A9ia_(impacteur)
 https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_de_l%27impact_g%C3%A9ant
 https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_barycentriques_(astronomie)
 
-## Mercure
+## Mercure
 
 https://fr.wikipedia.org/wiki/Mercure_(plan%C3%A8te)
 tidal locking = synchronisation par effet de marée
@@ -149,7 +153,7 @@ https://fr.wikipedia.org/wiki/R%C3%A9sonance_spin-orbite
 <a href="http://www.prothermographer.com/training/IRBasics/ir_basics.htm#heat_transfer/conduction/thermal_capacitance.htm">Thermal capacitance</a> -> non inclus
 https://fr.wikipedia.org/wiki/MESSENGER
 
-## Vénus
+## Vénus
 
 https://fr.wikipedia.org/wiki/V%C3%A9nus_%28plan%C3%A8te%29
 https://fr.wikipedia.org/wiki/Rétrogradation#Exemple_de_la_rétrogradation_de_Mars
@@ -187,7 +191,26 @@ https://fr.wikipedia.org/wiki/Z%C3%A9ro_absolu
 https://fr.wikipedia.org/wiki/Zone_habitable
 
 
-## Nepture
+## Jupiter
+
+https://fr.wikipedia.org/wiki/Jupiter_(plan%C3%A8te)
+https://fr.wikipedia.org/wiki/Juno_(sonde_spatiale)
+https://fr.wikipedia.org/wiki/Ceinture_d'ast%C3%A9ro%C3%AFdes
+https://fr.wikipedia.org/wiki/Voyager_1
+https://fr.wikipedia.org/wiki/Satellites_galil%C3%A9ens
+ - https://fr.wikipedia.org/wiki/Io_(lune)
+ - https://fr.wikipedia.org/wiki/Europe_(lune)
+ - https://fr.wikipedia.org/wiki/Ganym%C3%A8de_(lune)
+ - https://fr.wikipedia.org/wiki/Callisto_(lune)
+
+https://fr.wikipedia.org/wiki/Satellites_naturels_de_Jupiter
+http://iopscience.iop.org/0034-4885/61/5/003
+https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe
+https://fr.wikipedia.org/wiki/Grande_Tache_rouge
+https://fr.wikipedia.org/wiki/Galileo_(sonde_spatiale)
+https://fr.wikipedia.org/wiki/Ovale_BA
+
+## Nepture
 
 https://fr.wikipedia.org/wiki/Anneau_plan%C3%A9taire
 https://fr.wikipedia.org/wiki/Neptune_(plan%C3%A8te)
