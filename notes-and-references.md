@@ -1,12 +1,3 @@
-# Minor fixes
-
- - Style for the beginning of mars' chapter 
- - système solaire or Système Solaire ? pick one
- - fix the `-` vs `—`
- - p61 diatmeter
- - <li><a class="page" href="82"> La lune Titan <span> 82</span></a></li> ?
-
-
 # Current missing content ideas
 
 Here are a few ideas regarding what seem to miss in the current book
