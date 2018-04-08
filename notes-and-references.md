@@ -60,7 +60,7 @@ More about atmospheres https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_(astronomie
 
 More on life in vacuum/terraformation?
 
-Talk about inner/outer solar system, asteroid belt, Kuiper, Oort
+Talk about inner/outer solar system (telluric planets, then giants), asteroid belt, Kuiper, Oort. Maybe as intro ?
 
 # Number of words
     
@@ -244,6 +244,22 @@ https://fr.wikipedia.org/wiki/Grande_tache_blanche
 https://fr.wikipedia.org/wiki/Unit%C3%A9_astronomique
 https://fr.wikipedia.org/wiki/Ann%C3%A9e-lumi%C3%A8re
 https://fr.wikipedia.org/wiki/Parsec
+
+## Uranus
+
+https://fr.wikipedia.org/wiki/%C3%89cliptique
+https://fr.wikipedia.org/wiki/Voyager_2
+https://fr.wikipedia.org/wiki/Protoplan%C3%A8te
+https://fr.wikipedia.org/wiki/Effet_Djanibekov
+https://fr.wikipedia.org/wiki/Anneaux_d%27Uranus
+https://fr.wikipedia.org/wiki/Satellites_naturels_d%27Uranus
+ - https://fr.wikipedia.org/wiki/Miranda_(lune)
+    - https://fr.wikipedia.org/wiki/Verona_Rupes
+ - https://fr.wikipedia.org/wiki/Ariel_(lune)
+ - https://fr.wikipedia.org/wiki/Umbriel_(lune)
+ - https://fr.wikipedia.org/wiki/Titania_(lune)
+ - https://fr.wikipedia.org/wiki/Ob%C3%A9ron_(lune)
+https://fr.wikipedia.org/wiki/%C3%89quinoxe
 
 ## Nepture
 
