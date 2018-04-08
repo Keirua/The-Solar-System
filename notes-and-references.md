@@ -30,9 +30,13 @@ Each chapter has more or less this structure:
  - it provides details about an object, and focuses a bit on a specific aspect 
  - this aspect is used to introduce a notion of astronomy
 
+ - Update results on Juno and Cassini-Huygens
+
 # New content ideas
 
  = Content that the current book is not talking about that I'd like to add
+
+
 
 Sun/stars: 
  - the different categories of stars
@@ -54,6 +58,10 @@ Experiment about the phases of the moon.
 Geological structure of planets (inner core, mantel, etc: https://www.youtube.com/watch?v=muWrmfXpivY).
 More about atmospheres https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_(astronomie)
 
+More on life in vacuum/terraformation?
+
+Talk about inner/outer solar system, asteroid belt
+
 # Number of words
     
     $ find manuscript -type f -name "*.html" | xargs wc -w
@@ -74,7 +82,7 @@ More about atmospheres https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_(astronomie
  - [x] Mars  - p.58 
  - [x] Terraformation - p.66 
  - [x] Jupiter  - p.76
- - [ ] La lune Europe  - p.82
+ - [x] La lune Europe  - p.82
  - [ ] Saturne  - p.86
  - [ ] La lune Titan  - p.82
  - [ ] Unités de distances  - p.90 
@@ -216,6 +224,20 @@ https://fr.wikipedia.org/wiki/Jupiter_Icy_Moon_Explorer
 http://sci.esa.int/juice/50068-science-objectives/
 https://fr.wikipedia.org/wiki/Europa_Clipper
 https://www.nasa.gov/press-release/nasa-s-europa-mission-begins-with-selection-of-science-instruments
+
+
+## Saturne
+
+https://fr.wikipedia.org/wiki/Saturne_(plan%C3%A8te)
+https://fr.wikipedia.org/wiki/Anneaux_de_Saturne
+https://fr.wikipedia.org/wiki/Satellites_naturels_de_Saturne
+https://fr.wikipedia.org/wiki/Titan_(lune)
+https://fr.wikipedia.org/wiki/Rh%C3%A9a_(lune)
+https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_de_Saturne
+www.esa.int/Our_Activities/Space_Science/Cassini-Huygens/Saturn_s_atmosphere
+https://fr.wikipedia.org/wiki/Cassini-Huygens
+
+https://fr.wikipedia.org/wiki/Grande_tache_blanche
 
 ## Nepture
 
