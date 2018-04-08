@@ -58,32 +58,6 @@ Talk about inner/outer solar system (telluric planets, then giants), asteroid be
     $ find manuscript -type f -name "*.html" | xargs wc -w
 -> roughly 9140
 
-# Todo
-
- - [x] Introduction  - p.11
- - [x] Terre  - p.18
- - [x] Gravitation  - p.24
- - [x] Soleil  - p.28
- - [x] Lune  - p.36
- - [x] Mathématiques barycentriques !  - p.42
- - [x] Évènements en syzygie - p.44
- - [x] Mercure - p.46
- - [ ] Mouvements de projectiles - p.50 
- - [x] Vénus  - p.54
- - [x] Mars  - p.58 
- - [x] Terraformation - p.66 
- - [x] Jupiter  - p.76
- - [x] La lune Europe  - p.82
- - [x] Saturne  - p.86
- - [x] Unités de distances  - p.90 
- - [ ] Uranus  - p.92
- - [x] Neptune  - p.98
- - [x] Pluton  - p.102
- - [x] Cérès - p.104
- - [x] Éris - p.106
- - [x] Makémaké - p.108
- - [x] Hauméa - p.110
-
 # References
 
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe et bien sûr https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire
