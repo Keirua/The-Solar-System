@@ -4,6 +4,8 @@
  - système solaire or Système Solaire ? pick one
  - fix the `-` vs `—`
  - p61 diatmeter
+ - <li><a class="page" href="82"> La lune Titan <span> 82</span></a></li> ?
+
 
 # Current missing content ideas
 
@@ -36,8 +38,6 @@ Each chapter has more or less this structure:
 
  = Content that the current book is not talking about that I'd like to add
 
-
-
 Sun/stars: 
  - the different categories of stars
  - expand on mass, brightness, age
@@ -60,7 +60,7 @@ More about atmospheres https://fr.wikipedia.org/wiki/Atmosph%C3%A8re_(astronomie
 
 More on life in vacuum/terraformation?
 
-Talk about inner/outer solar system, asteroid belt
+Talk about inner/outer solar system, asteroid belt, Kuiper, Oort
 
 # Number of words
     
@@ -83,9 +83,8 @@ Talk about inner/outer solar system, asteroid belt
  - [x] Terraformation - p.66 
  - [x] Jupiter  - p.76
  - [x] La lune Europe  - p.82
- - [ ] Saturne  - p.86
- - [ ] La lune Titan  - p.82
- - [ ] Unités de distances  - p.90 
+ - [x] Saturne  - p.86
+ - [x] Unités de distances  - p.90 
  - [ ] Uranus  - p.92
  - [x] Neptune  - p.98
  - [x] Pluton  - p.102
@@ -99,6 +98,7 @@ Talk about inner/outer solar system, asteroid belt
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire_interne_et_externe et bien sûr https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire
 
 https://fr.wikipedia.org/wiki/Formation_et_%C3%A9volution_du_Syst%C3%A8me_solaire
+https://fr.wikipedia.org/wiki/Ceinture_d%27ast%C3%A9ro%C3%AFdes
 
 https://fr.wikipedia.org/wiki/Orbite#Param%C3%A8tres_orbitaux
 
@@ -238,6 +238,12 @@ www.esa.int/Our_Activities/Space_Science/Cassini-Huygens/Saturn_s_atmosphere
 https://fr.wikipedia.org/wiki/Cassini-Huygens
 
 https://fr.wikipedia.org/wiki/Grande_tache_blanche
+
+## Astronomical distances
+
+https://fr.wikipedia.org/wiki/Unit%C3%A9_astronomique
+https://fr.wikipedia.org/wiki/Ann%C3%A9e-lumi%C3%A8re
+https://fr.wikipedia.org/wiki/Parsec
 
 ## Nepture
 
